@@ -43,7 +43,7 @@ In addition to replacing fonts, you can also heavily customize the appearance of
 
 ### 3. 🛠️ Setting Up CUFontPatcher and Fonts
 
-1. Download `CUFontPatcher.zip` from [Here](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+1. Download `CUFontPatcher.zip` from [Here](https://github.com/marui-neko/CUFontPatcher/raw/refs/heads/main/CUFontPatcher.zip)
 2. Extract the contents (the `BepInEx` folder) into the same folder as the game's executable (`CasualtiesUnknown.exe`).
 
 #### 📁 Directory Structure
