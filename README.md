@@ -2,6 +2,8 @@
 
 # CUFontPatcher
 
+This plugin was created for casualties: unknown.
+
 ## What is CUFontPatcher?
 **CUFontPatcher** is a BepInEx plugin that allows you to replace any in-game fonts with custom ones.
 In addition to replacing fonts, you can also heavily customize the appearance of the text using the following options:
