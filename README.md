@@ -56,7 +56,7 @@ CasualtiesUnknown/
         └── CUFontPatcher/   
             ├── CUFontPatcher.dll    <-- The Patcher plugin   
             ├── fontmap.txt          <-- Font configuration file   
-            ├── unifont_16_u_2019    <-- Your Font Asset 1   
+            ├── unifont_17_u_2019    <-- Your Font Asset 1   
             └── (Additional fonts)   <-- Your Font Asset 2, etc.
 ```
    
