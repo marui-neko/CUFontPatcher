@@ -21,6 +21,7 @@ In addition to replacing fonts, you can also heavily customize the appearance of
 > 📝 
 > A pre-compiled font asset based on **Unifont** is included in this package by default.  
 > If you want to add and use your own custom fonts, you will need to create a **TextMeshPro Font Asset** using the Unity.
+> The 'Language_full.txt' file in the repository covers all the characters used in the game, so please use it when creating the font assets.
 
 ***  
 
